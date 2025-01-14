@@ -10,4 +10,4 @@ Set the `OPENAI_API_KEY` environmental variable to your OpenAI key (if using the
 
 ## Usage
 
-Ideally, open it up in the devcontainer. Then run `python vulnchat.py`.
+Ideally, open it up in the `.devcontainer`. Then run `python vulnchat.py`.
